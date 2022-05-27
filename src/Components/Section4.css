@@ -1,0 +1,17 @@
+.section4-para{
+    margin-top: 0px;
+font-size:larger;
+
+}
+.Section4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 4%;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.slider-image{
+    width: 65%;
+    border-radius: 15px;
+}
