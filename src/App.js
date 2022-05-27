@@ -6,7 +6,7 @@ import Section4 from './Components/Section4';
 
 function App() {
   return (
-    <div className="App">
+    <div>
      <Header />
      <Section2 />
      <Section4 />

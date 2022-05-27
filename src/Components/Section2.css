@@ -75,3 +75,20 @@
 .section-2-images {
   position: relative;
 }
+@media screen and (max-width:798px) {
+.Section2{
+
+  height: auto;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1%;
+  overflow: hidden;
+  justify-content: center;
+  margin-left: 10px;
+  width: 100vw;
+}
+
+ html{
+   width: 100vw;
+ } 
+}

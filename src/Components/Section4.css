@@ -8,10 +8,15 @@ font-size:larger;
     flex-direction: column;
     justify-content: center;
     padding: 4%;
+    text-align: center;
     padding-left: 8%;
     padding-right: 8%;
 }
 .slider-image{
     width: 65%;
     border-radius: 15px;
+}
+
+@media screen and (max-width:600px) {
+   
 }

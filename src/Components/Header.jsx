@@ -17,10 +17,14 @@ export default function Header() {
 <ul className='list-2 header-ul'>
     <li><FiSearch /> </li>
     <li><FiUser /> </li>
+    
     <li><FiHeart /></li>
     <li> <FiHome /></li>
     <li> <FiShoppingCart /></li>
 </ul>
+
+
+
         </div>
         
     </div>
